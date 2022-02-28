@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="an_error_has_occurred">An error has occurred</string>
+    <string name="refresh">Refresh</string>
+</resources>
